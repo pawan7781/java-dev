@@ -1,3 +1,5 @@
+package lab_prog;
+
 public class String_types {
     public static void main(String []args)
     {     //immutable (non changable)

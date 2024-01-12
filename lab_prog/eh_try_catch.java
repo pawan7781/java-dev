@@ -1,3 +1,5 @@
+package lab_prog;
+
 
 import java.util.Scanner;
 public class eh_try_catch 

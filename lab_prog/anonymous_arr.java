@@ -1,3 +1,5 @@
+package lab_prog;
+
 class clc
 {
     public int add(int nums[])

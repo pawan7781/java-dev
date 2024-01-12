@@ -1,3 +1,5 @@
+package lab_prog;
+
 class prime1
 {
    

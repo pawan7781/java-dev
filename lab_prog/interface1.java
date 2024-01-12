@@ -1,3 +1,5 @@
+package lab_prog;
+
 interface computer
 {
     void compile_code();

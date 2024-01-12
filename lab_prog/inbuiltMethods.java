@@ -1,3 +1,5 @@
+package lab_prog;
+
 public class inbuiltMethods {
     public static void main(String[] args) {
         String str= "String is a Class";

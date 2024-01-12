@@ -1,3 +1,5 @@
+package lab_prog;
+
 class Student {
     int age = 5; // instance variable, non - static variable
     static String school; // non - instance variable, static variable

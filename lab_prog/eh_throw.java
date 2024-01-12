@@ -1,3 +1,4 @@
+package lab_prog;
 import java.util.Scanner;
 public class eh_throw {
     public static void main(String[] args) {

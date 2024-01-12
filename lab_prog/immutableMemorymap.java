@@ -1,3 +1,5 @@
+package lab_prog;
+
 public class immutableMemorymap {
     public static void main(String[] args) {
         String s1 = "pawan";

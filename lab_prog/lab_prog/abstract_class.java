@@ -1,3 +1,5 @@
+package lab_prog;
+
 abstract class aeroplane
 {
     abstract public void takeoff();

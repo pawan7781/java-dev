@@ -1,3 +1,5 @@
+package lab_prog;
+
 public class jagged_arr {
     public static void main(String [] args)
     {

@@ -1,3 +1,5 @@
+package lab_prog;
+
 public class arr_1D {
     public static void main(String [] args)
     {

@@ -1,3 +1,5 @@
+package lab_prog;
+
 public class concatenationString {
     public static void main(String[] args) {
         String s1 = "mahendra";
