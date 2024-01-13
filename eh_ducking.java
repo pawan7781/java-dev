@@ -1,4 +1,6 @@
-package lab_prog;
+
+
+
 
 
 class demo
