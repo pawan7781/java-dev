@@ -24,7 +24,7 @@ public class C_ArrayList
         al.trimToSize();
         System.out.println(al.size());
         al.clear();
-        System.out.println(al);
+        // System.out.println(al);
         List al3= new ArrayList();
         al3.add(100);
         System.out.println(al3);

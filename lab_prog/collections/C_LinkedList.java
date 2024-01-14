@@ -26,6 +26,7 @@ public class C_LinkedList {
         ll.push(10);
         System.out.println(ll);
         System.out.println(ll.pop());
+        System.out.println(ll.poll());
         
 
     }
